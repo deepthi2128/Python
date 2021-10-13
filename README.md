@@ -1,2 +1,3 @@
 # Python
-#This File takes the input form users and prints concatinate it , until the user asks to end.
+''' I am Deepthi. A Data Analysis Enthusiast.
+I will be uploading python programs from basics '''
